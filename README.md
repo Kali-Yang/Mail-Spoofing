@@ -7,8 +7,8 @@ What is SMTP?
 
 SMTP is the short for Simple Mail Transfer Protocol. It’s the standard protocol used for sending and receiving emails over the internet.
 
-1) Spoof Email Sending Script
+Spoof Email Sending Script
 Using script you can send the basic text message to the target email address using the spoofed email with the spoof name. Make sure you do the following changes in the script.py file & config.ini file.
 
-2) Getting SMTP for Free
+Getting SMTP for Free
 There are several SMTP providers who has free plans included, most of them don’t even ask for verification while registration, so you can make use of them. Here, i’ll be using sendinblue.com to get SMTP for free of cost & even they didn’t asked for Credit Card while registration. Below are the step by step guide to get it:
